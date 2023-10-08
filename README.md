@@ -46,9 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![273425128-45a36d2b-f444-4698-b587-78435e1acac0](https://github.com/RKavikeerthana/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120431120/0acaa72a-d3e0-4826-8892-af81af5362ad)
+![273425139-e92cc701-402f-4d16-9e07-f04555c33e40](https://github.com/RKavikeerthana/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120431120/0c113486-e1a3-406b-a1a3-720e6c384005)
 
-### Name:
-### Register Number:
+### Name: R.KAVI KEERTHANA
+### Register Number: 212222100022
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
